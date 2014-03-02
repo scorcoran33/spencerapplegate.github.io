@@ -58,7 +58,7 @@ strong, b {
     text-indent: -9999px;
     border: 5px solid #fff;
     background-size: 100%;
-    background-image: url(/assets/images/main.png);
+    background-image: url(/assets/images/main.jpg);
   }
 
   div#header header#sidebar a{
@@ -305,7 +305,7 @@ strong, b {
     text-indent: -9999px;
     border: 5px solid #fff;
     background-size: 100%;
-    background-image: url(/assets/images/main.png);
+    background-image: url(/assets/images/main.jpg);
   }
 }
 
