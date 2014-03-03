@@ -65,7 +65,8 @@ strong, b {
   }
 
   div#header header#sidebar p {
-    font-size: 1.5em;
+    font-size: 1.25em;
+    /* font-size: 1.5em; */
     line-height: 2.3em;
     margin-top: 20px;
     margin-bottom: 20px;
